@@ -22,3 +22,7 @@ Here's our [website](https://manufacanalytics.com/) if you'd like to know more.
 Both these repositories try to integrate chemistry, chemical engineering and software development to create useful utilities for process engineers. The development isn't quite active on these repsitories but feel free to reach out if you'd like to contribute and we can try to open up our core team's schedule to faciliate PR reviews, code briefing, etc.
 
 ---
+
+#### Why the monkey? 🐵
+
+Because it's symbolic of curiosity, playfulness, intelligence, and wisdom; traits that we embrace and hope our work exhibits.
