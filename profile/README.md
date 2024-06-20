@@ -2,11 +2,7 @@
 
 **Manufac Analytics** is a technology firm that provides digitization & automation solutions to manufacturers to help them become operationally efficient. ⚡
 
-<details>
-  <summary>Introductory Video</summary>
-  
-  https://github.com/manufac-analytics/indiamart/assets/25290212/48930f7c-c146-4276-b9d5-d1fdf3ce3466
-</details>
+<img src="https://github.com/manufac-analytics/.github/assets/25290212/c2514d78-ca0a-4b5f-9fc9-67ac1237f9d2" width="500" />
 
 Here's our [website](https://manufacanalytics.com/) if you'd like to know more.
 
@@ -17,6 +13,12 @@ Here's our [website](https://manufacanalytics.com/) if you'd like to know more.
 ---
 
 🧑‍🤝‍🧑 If you are a software consumer looking for highly customized dashboards/data-visualizations, and ERP system for your business needs, we welcome you to get in touch with us at info@manufacanalytics.com.
+
+<details>
+  <summary>Introductory Video</summary>
+  
+  https://github.com/manufac-analytics/indiamart/assets/25290212/48930f7c-c146-4276-b9d5-d1fdf3ce3466
+</details>
 
 ---
 
