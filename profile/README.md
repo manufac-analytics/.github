@@ -1,6 +1,6 @@
 ## About Us
 
-**Manufac Analytics** is a technology firm that provides digitization & automation solutions to manufacturers to help them become operationally efficient. ⚡
+Where clean code meets clean design. Privacy-first, cloud-powered, people-focused.
 
 <img src="https://github.com/manufac-analytics/.github/assets/25290212/7851ca0e-c4c9-4b43-8f9b-5d4b3f98f262" width="500" />
 
